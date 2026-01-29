@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flash2134.github.io/Flash-USDT-Trc20/sitemap.xml
